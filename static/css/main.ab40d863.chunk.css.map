@@ -1,0 +1,1 @@
+{"version":3,"sources":["TodoList.css"],"names":[],"mappings":"AAAA,aACE,eAAgB,CAChB,WACF","file":"main.ab40d863.chunk.css","sourcesContent":[".dodos__item {\r\n  max-width: 800px;\r\n  margin: auto;\r\n}\r\n"]}
